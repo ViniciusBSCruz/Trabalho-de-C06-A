@@ -38,7 +38,7 @@ Ela me apontou todos os erros e fui corrigindo no meu código, fiz esse processo
 
 Mesmo satisfeito com o código, eu alterei na parte final no switch, que eu achava melhor, em vez de já mostrar os componentes e já fazer a compra, na versão da IA, dar uma opção para o cliente, depois de ver os componentes, se ele queria ou não fazer a compra.
 
-
+Finalizando, utilizei muito da ajuda da IA, seja tirando duvida, dando dicas, e até mesmo gerando parte do codigo e corrijindo onde não funcionava.
 
 
 
